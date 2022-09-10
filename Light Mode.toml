@@ -1,0 +1,22 @@
+# Generated with Overlay Style Manager 1.0
+
+[Colors]
+Text = "#000000"
+TextDisabled = "#353535"
+WindowBg = "#CBCBCB"
+ChildBg = "#FFFFFF"
+PopupBg = "#FFFFFF89"
+Border = "#31313100"
+BorderShadow = "#A0A0A018"
+FrameBg = "#ACACACEA"
+TitleBg = "#D0D0D0"
+TitleBgActive = "#FFFFFF"
+TitleBgCollapsed = "#B0B0B07F"
+MenuBarBg = "#EBEBEB"
+ScrollbarBg = "#FFFFFF84"
+Button = "#2488FF63"
+Separator = "#717171"
+Tab = "#4182DAD7"
+PlotLines = "#FFFFFF"
+TableHeaderBg = "#747474A2"
+TableRowBgAlt = "#00000000"
